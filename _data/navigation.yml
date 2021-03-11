@@ -1,0 +1,8 @@
+- name: test
+  url: golem.de
+
+- name: bla
+  url: test.de
+
+- name: blup
+  url: daimler.com
